@@ -1,0 +1,18 @@
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\RegexMacApp.exe.config
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\RegexMacApp.exe
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\RegexMacApp.pdb
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\obj\Debug\RegexMacApp.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\obj\Debug\RegexMacApp.exe
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\obj\Debug\RegexMacApp.pdb
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\log4net.config
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\log4net.dll
+c:\users\filip\documents\visual studio 2017\Projects\RegexMacApp\RegexMacApp\bin\Debug\log4net.xml
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\log4net.config
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\RegexMacApp.exe.config
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\RegexMacApp.exe
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\RegexMacApp.pdb
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\log4net.dll
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\bin\Debug\log4net.xml
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\obj\Debug\RegexMacApp.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\obj\Debug\RegexMacApp.exe
+C:\Users\Filip\Documents\RegexMacAdressCalculator\RegexMacApp\obj\Debug\RegexMacApp.pdb
